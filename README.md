@@ -4,9 +4,20 @@ This site showcases my art, writing, and reading lists. Other musings soon to co
 
 `mystupidscans@gmail.com`
 
-##Technologies used:
+## Technologies used:
 Bootstrap
 
 
-##Site Designer/Developer : @delpinolisette
+## Site Designer/Developer : @delpinolisette
+
+## TODO: Dev
+
+- get reading list from artist. 
+- get statements for each project from artist
+- get name and description of each sub item from artist
+- review styling of grid. 
+- get all imgages from artist in web safe format. 
+
+
+
 
