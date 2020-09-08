@@ -10,13 +10,25 @@ Bootstrap
 
 ## Site Designer/Developer : @delpinolisette
 
-## TODO: Dev
+## TODO: artist
 
 - get reading list from artist. 
 - get statements for each project from artist
 - get name and description of each sub item from artist
 - review styling of grid. 
 - get all imgages from artist in web safe format. 
+
+## TODO: Dev
+- I want different font. 
+
+
+## steps for git upload:
+
+1. right click once inside `portfolio-site` and click open git bash here
+2. `git add .`
+3. `git status` and somethibng should look green
+4. `git commit -m "insert message about change here"`
+5. `git push`
 
 
 
