@@ -20,6 +20,7 @@ Bootstrap
 
 ## TODO: Dev
 - I want different font. 
+- git pull https://github.com/esther-esther/portfolio-site.git master
 
 
 ## steps for git upload:
